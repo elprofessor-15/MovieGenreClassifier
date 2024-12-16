@@ -45,10 +45,3 @@ The project uses two datasets:
 
 ---
 
-## How to Run
-
-1. **Clone the Repository**:
-   ```bash
-   git clone <repository-url>
-   cd <repository-folder>
-
